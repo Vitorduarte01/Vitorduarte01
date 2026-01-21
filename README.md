@@ -63,4 +63,3 @@ Conquistar uma oportunidade como **Desenvolvedor Júnior**, evoluir tecnicamente
 
 ---
 
-📌 *README de perfil — cole este conteúdo em um repositório chamado exatamente igual ao seu usuário do GitHub.*
