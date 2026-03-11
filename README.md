@@ -1,7 +1,8 @@
-# 👋 Oi! Eu sou Vitor Duarte
+# 👋 Olá! Eu sou Vitor Duarte
 
-🎓 **Formado em Análise e Desenvolvimento de Sistemas**
-💻 **Desenvolvedor Full Stack em formação** 🚀 | JavaScript | Python
+🎓 Formado em Análise e Desenvolvimento de Sistemas  
+💻 Desenvolvedor Full Stack em formação  
+🚀 JavaScript • Python  
 📍 Itapevi – SP, Brasil
 
 ---
@@ -54,11 +55,9 @@ Sou desenvolvedor com base em **JavaScript e Python**, focado em evoluir como **
 
 ## 📊 GitHub Stats
 
-![Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vitorduarte01\&show_icons=true\&theme=tokyonight)
+![Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vitorduarte01&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorduarte01\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Vitorduarte01\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorduarte01&layout=compact&theme=tokyonight)
 
 ---
 
